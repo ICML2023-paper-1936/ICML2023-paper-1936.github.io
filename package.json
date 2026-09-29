@@ -1,0 +1,10 @@
+{
+  "name": "zeyang-liu-homepage",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Zeyang Liu's bilingual academic homepage for GitHub Pages",
+  "scripts": {
+    "dev": "node tools/preview.cjs",
+    "build": "python3 tools/build.py"
+  }
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Enhancing Value Decomposition With Target Transformation in Cooperative Multi-Agent Reinforcement Learning",
+    "authors": "Zeyang Liu, Lipeng Wan, Shiguang Sun, Xue Sui, Xingyu Chen, Xuguang Lan, Nanning Zheng",
+    "year": 2026,
+    "short_venue": "TPAMI",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(9): 10299–10315",
+    "url": "https://ieeexplore.ieee.org/document/11480798/",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/document/11480798/",
+      "DOI": "https://doi.org/10.1109/TPAMI.2026.3683517"
+    },
+    "selected": true,
+    "source_urls": [
+      "https://ieeexplore.ieee.org/document/11480798/",
+      "https://www.computer.org/csdl/journal/tp/2026/09/11480798/2fEJhY9aM36",
+      "https://gr.xjtu.edu.cn/zeuslan/zh_CN/zdylm/1068030/list/index.htm"
+    ]
+  },
+  {
+    "title": "Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion",
+    "authors": "Tianyang Wu, Hanwei Guo, Yuhang Wang, Junshu Yang, Xinyang Sui, Jiayi Xie, Xingyu Chen, Zeyang Liu, Xuguang Lan",
+    "year": 2026,
+    "short_venue": "RSS",
+    "venue": "Robotics: Science and Systems XXII",
+    "url": "https://www.roboticsproceedings.org/rss22/p156.html",
+    "links": {
+      "Paper": "https://www.roboticsproceedings.org/rss22/p156.html",
+      "arXiv": "https://arxiv.org/abs/2602.00678",
+      "Code": "https://github.com/wty-yy/go2_rl_gym",
+      "Evaluation Code": "https://github.com/wty-yy/RoboGauge",
+      "Project": "https://robogauge.github.io/",
+      "DOI": "https://doi.org/10.15607/RSS.2026.XXII.156"
+    },
+    "selected": true,
+    "source_urls": [
+      "https://www.roboticsproceedings.org/rss22/p156.html",
+      "https://arxiv.org/abs/2602.00678",
+      "https://github.com/wty-yy/go2_rl_gym",
+      "https://github.com/wty-yy/RoboGauge"
+    ]
+  },
+  {
+    "title": "MInCo: Mitigating conflicting objectives in distracted visual model-based reinforcement learning",
+    "authors": "Shiguang Sun, Hanbo Zhang, Zeyang Liu, Xinrui Yang, Lipeng Wan, Xingyu Chen, Xuguang Lan",
+    "year": 2026,
+    "short_venue": "KBS",
+    "venue": "Knowledge-Based Systems, 350: 116309",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S095070512601035X",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/abs/pii/S095070512601035X",
+      "Code": "https://github.com/ShiguangSun/minco",
+      "DOI": "https://doi.org/10.1016/j.knosys.2026.116309"
+    },
+    "selected": true,
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/abs/pii/S095070512601035X",
+      "https://github.com/ShiguangSun/minco"
+    ]
+  },
+  {
+    "title": "Overview of deep learning-based LiDAR SLAM",
+    "authors": "Jiaqi Zhang, Zeyang Liu, Xuguang Lan",
+    "year": 2026,
+    "short_venue": "RAS",
+    "venue": "Robotics and Autonomous Systems, 204: 105593",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0921889026002654",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/pii/S0921889026002654",
+      "DOI": "https://doi.org/10.1016/j.robot.2026.105593"
+    },
+    "selected": false,
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0921889026002654",
+      "https://www.sciencedirect.com/journal/robotics-and-autonomous-systems/vol/204/suppl/C"
+    ]
+  },
+  {
+    "title": "Boosting Extrapolation Capabilities in Model-Free Offline Reinforcement Learning",
+    "authors": "Ziru Wang, Wanli Jiang, Zeyang Liu, Xuguang Lan",
+    "year": 2026,
+    "short_venue": "TCDS",
+    "venue": "IEEE Transactions on Cognitive and Developmental Systems, 18(4): 968–982",
+    "url": "https://ieeexplore.ieee.org/document/11440153/",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/document/11440153/",
+      "DOI": "https://doi.org/10.1109/TCDS.2026.3674737"
+    },
+    "selected": false,
+    "source_urls": [
+      "https://ieeexplore.ieee.org/document/11440153/",
+      "https://scholar.xjtu.edu.cn/zh/publications/boosting-extrapolation-capabilities-in-model-free-offline-reinfor/"
+    ]
+  },
+  {
+    "title": "Flight Mastery in Turbulent Skies: Shared Control and Curriculum Reinforcement Learning for Crosswind Landing",
+    "authors": "Zechen Shi, Xingyu Chen, Zeyang Liu, Xinrui Yang, Chi Zhang, Yimeng Yu, Junbin You, Xuguang Lan",
+    "year": 2025,
+    "short_venue": "T-ITS",
+    "venue": "IEEE Transactions on Intelligent Transportation Systems, 26(10): 15546–15557",
+    "url": "https://ieeexplore.ieee.org/document/11142541/",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/document/11142541/",
+      "DOI": "https://doi.org/10.1109/TITS.2025.3599932"
+    },
+    "selected": false,
+    "source_urls": [
+      "https://ieeexplore.ieee.org/document/11142541/",
+      "https://gr.xjtu.edu.cn/zeuslan/zh_CN/zdylm/1068030/list/index.htm"
+    ]
+  },
+  {
+    "title": "Improving Offline Reinforcement Learning With in-Sample Advantage Regularization for Robot Manipulation",
+    "authors": "Chengzhong Ma, Deyu Yang, Tianyu Wu, Zeyang Liu, Houxue Yang, Xingyu Chen, Xuguang Lan, Nanning Zheng",
+    "year": 2025,
+    "short_venue": "TNNLS",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems, 36(6): 11215–11227",
+    "url": "https://doi.org/10.1109/TNNLS.2024.3443102",
+    "links": {
+      "Paper": "https://doi.org/10.1109/TNNLS.2024.3443102"
+    },
+    "selected": true,
+    "source_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/39302799/",
+      "https://gr.xjtu.edu.cn/zeuslan/zh_CN/zdylm/1068030/list/index.htm"
+    ]
+  },
+  {
+    "title": "Towards Extrinsic Dexterity Grasping in Unrestricted Environments",
+    "authors": "Chengzhong Ma, Houxue Yang, Hanbo Zhang, Zeyang Liu, Chao Zhao, Jian Tang, Xuguang Lan, Nanning Zheng",
+    "year": 2025,
+    "short_venue": "IROS",
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems, 1049–1056",
+    "url": "https://ieeexplore.ieee.org/iel8/11245651/11245652/11246419.pdf",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/iel8/11245651/11245652/11246419.pdf",
+      "Project": "https://exdiff.github.io/",
+      "DOI": "https://doi.org/10.1109/IROS60139.2025.11246419"
+    },
+    "selected": false,
+    "source_urls": [
+      "https://ieeexplore.ieee.org/iel8/11245651/11245652/11246419.pdf",
+      "https://exdiff.github.io/"
+    ]
+  },
+  {
+    "title": "State Revisit and Re-explore: Bridging Sim-to-Real Gaps in Offline-and-Online Reinforcement Learning with An Imperfect Simulator",
+    "authors": "Xingyu Chen, Jiayi Xie, Zhijian Xu, Ruixun Liu, Shuai Yang, Zeyang Liu, Lipeng Wan, Xuguang Lan",
+    "year": 2025,
+    "short_venue": "IJCAI",
+    "venue": "Thirty-Fourth International Joint Conference on Artificial Intelligence, 8724–8732",
+    "url": "https://www.ijcai.org/proceedings/2025/970",
+    "links": {
+      "Paper": "https://www.ijcai.org/proceedings/2025/970",
+      "DOI": "https://doi.org/10.24963/ijcai.2025/970"
+    },
+    "selected": false,
+    "source_urls": [
+      "https://www.ijcai.org/proceedings/2025/970"
+    ]
+  },
+  {
+    "title": "Offline Multi-Agent Preference-Based Reinforcement Learning with Agent-aware Direct Preference Optimization",
+    "authors": "Qian Kou, Mingyang Li, Zeyang Liu, Long Qian, Zhuoran Chen, Lipeng Wan, Xingyu Chen, Xuguang Lan",
+    "year": 2025,
+    "short_venue": "AAMAS",
+    "venue": "International Conference on Autonomous Agents and Multiagent Systems, 1181–1190",
+    "url": "https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1181.pdf",
+    "links": {
+      "Paper": "https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1181.pdf"
+    },
+    "selected": true,
+    "source_urls": [
+      "https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1181.pdf"
+    ]
+  },
+  {
+    "title": "Grounded Answers for Multi-agent Decision-making Problem through Generative World Model",
+    "authors": "Zeyang Liu, Xinrui Yang, Shiguang Sun, Long Qian, Lipeng Wan, Xingyu Chen, Xuguang Lan",
+    "year": 2024,
+    "short_venue": "NeurIPS",
+    "venue": "Advances in Neural Information Processing Systems 37",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/52c21a32429a7d6050430b606a286a75-Abstract-Conference.html",
+    "links": {
+      "Paper": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/52c21a32429a7d6050430b606a286a75-Abstract-Conference.html",
+      "arXiv": "https://arxiv.org/abs/2410.02664"
+    },
+    "selected": true,
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2024/hash/52c21a32429a7d6050430b606a286a75-Abstract-Conference.html",
+      "https://arxiv.org/abs/2410.02664"
+    ]
+  },
+  {
+    "title": "Imagine, Initialize, and Explore: An Effective Exploration Method in Multi-Agent Reinforcement Learning",
+    "authors": "Zeyang Liu, Lipeng Wan, Xinrui Yang, Zhuoran Chen, Xingyu Chen, Xuguang Lan",
+    "year": 2024,
+    "short_venue": "AAAI",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence, 38(16): 17487–17495",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29698",
+    "links": {
+      "Paper": "https://ojs.aaai.org/index.php/AAAI/article/view/29698",
+      "arXiv": "https://arxiv.org/abs/2402.17978",
+      "DOI": "https://doi.org/10.1609/aaai.v38i16.29698"
+    },
+    "selected": true,
+    "source_urls": [
+      "https://ojs.aaai.org/index.php/AAAI/article/view/29698",
+      "https://arxiv.org/abs/2402.17978"
+    ]
+  },
+  {
+    "title": "Knowledge Graph Enhancement for Fine-Grained Zero-Shot Learning on ImageNet21K",
+    "authors": "Xingyu Chen, Jiaxu Liu, Zeyang Liu, Lipeng Wan, Xuguang Lan, Nanning Zheng",
+    "year": 2024,
+    "short_venue": "TCSVT",
+    "venue": "IEEE Transactions on Circuits and Systems for Video Technology, 34(10): 9090–9101",
+    "url": "https://ieeexplore.ieee.org/document/10517649/",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/document/10517649/",
+      "DOI": "https://doi.org/10.1109/TCSVT.2024.3396215"
+    },
+    "selected": false,
+    "source_urls": [
+      "https://ieeexplore.ieee.org/document/10517649/",
+      "https://gr.xjtu.edu.cn/zeuslan/zh_CN/zdylm/1068030/list/index.htm"
+    ]
+  },
+  {
+    "title": "Optimal bipartite graph matching-based goal selection for policy-based hindsight learning",
+    "authors": "Shiguang Sun, Hanbo Zhang, Zeyang Liu, Xingyu Chen, Xuguang Lan",
+    "year": 2024,
+    "short_venue": "Neurocomputing",
+    "venue": "Neurocomputing, 591: 127734",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0925231224005058",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/pii/S0925231224005058",
+      "DOI": "https://doi.org/10.1016/j.neucom.2024.127734"
+    },
+    "selected": false,
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0925231224005058",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691092"
+    ]
+  },
+  {
+    "title": "Deep Hierarchical Communication Graph in Multi-Agent Reinforcement Learning",
+    "authors": "Zeyang Liu, Lipeng Wan, Xue Sui, Zhuoran Chen, Kewu Sun, Xuguang Lan",
+    "year": 2023,
+    "short_venue": "IJCAI",
+    "venue": "Thirty-Second International Joint Conference on Artificial Intelligence, 208–216",
+    "url": "https://www.ijcai.org/proceedings/2023/24",
+    "links": {
+      "Paper": "https://www.ijcai.org/proceedings/2023/24",
+      "DOI": "https://doi.org/10.24963/ijcai.2023/24"
+    },
+    "selected": true,
+    "source_urls": [
+      "https://www.ijcai.org/proceedings/2023/24"
+    ]
+  }
+]
