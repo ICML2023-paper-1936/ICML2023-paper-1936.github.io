@@ -38,7 +38,10 @@
       "https://arxiv.org/abs/2602.00678",
       "https://github.com/wty-yy/go2_rl_gym",
       "https://github.com/wty-yy/RoboGauge"
-    ]
+    ],
+    "thumbnail": "assets/papers/robogauge.jpg",
+    "thumbnail_alt": "Unitree Go2 quadruped traversing wooden stairs in the RoboGauge real-world demonstration.",
+    "thumbnail_source": "https://robogauge.github.io/static/videos/Stairs.mp4"
   },
   {
     "title": "MInCo: Mitigating conflicting objectives in distracted visual model-based reinforcement learning",
@@ -56,7 +59,10 @@
     "source_urls": [
       "https://www.sciencedirect.com/science/article/abs/pii/S095070512601035X",
       "https://github.com/ShiguangSun/minco"
-    ]
+    ],
+    "thumbnail": "assets/papers/minco.png",
+    "thumbnail_alt": "MInCo framework linking visual representations, latent dynamics, and reward prediction.",
+    "thumbnail_source": "https://arxiv.org/pdf/2504.04164"
   },
   {
     "title": "Overview of deep learning-based LiDAR SLAM",
@@ -172,7 +178,10 @@
     "selected": true,
     "source_urls": [
       "https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1181.pdf"
-    ]
+    ],
+    "thumbnail": "assets/papers/aamas.png",
+    "thumbnail_alt": "Two-stage agent-aware direct preference optimization framework with global and local preferences.",
+    "thumbnail_source": "https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1181.pdf"
   },
   {
     "title": "Grounded Answers for Multi-agent Decision-making Problem through Generative World Model",
@@ -189,7 +198,10 @@
     "source_urls": [
       "https://proceedings.neurips.cc/paper_files/paper/2024/hash/52c21a32429a7d6050430b606a286a75-Abstract-Conference.html",
       "https://arxiv.org/abs/2410.02664"
-    ]
+    ],
+    "thumbnail": "assets/papers/grounded.png",
+    "thumbnail_alt": "Learning before Interaction framework combining a dynamics model, language-guided rewards, and policy learning.",
+    "thumbnail_source": "https://arxiv.org/pdf/2410.02664"
   },
   {
     "title": "Imagine, Initialize, and Explore: An Effective Exploration Method in Multi-Agent Reinforcement Learning",
@@ -207,7 +219,10 @@
     "source_urls": [
       "https://ojs.aaai.org/index.php/AAAI/article/view/29698",
       "https://arxiv.org/abs/2402.17978"
-    ]
+    ],
+    "thumbnail": "assets/papers/iie.png",
+    "thumbnail_alt": "Imagine, Initialize, and Explore framework with an imagined trajectory and prompt-based causal transformer.",
+    "thumbnail_source": "https://arxiv.org/pdf/2402.17978"
   },
   {
     "title": "Knowledge Graph Enhancement for Fine-Grained Zero-Shot Learning on ImageNet21K",
@@ -257,6 +272,9 @@
     "selected": true,
     "source_urls": [
       "https://www.ijcai.org/proceedings/2023/24"
-    ]
+    ],
+    "thumbnail": "assets/papers/dhcg.png",
+    "thumbnail_alt": "DHCG framework showing hierarchical graph communication between agents during training and execution.",
+    "thumbnail_source": "https://www.ijcai.org/proceedings/2023/0024.pdf"
   }
 ]

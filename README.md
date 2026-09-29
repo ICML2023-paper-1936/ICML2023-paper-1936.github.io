@@ -1,6 +1,6 @@
 # 刘泽阳的个人学术主页
 
-以简洁的学术主页为设计方向：白底、蓝色链接、左侧导航、衬线字体和按年份整理的论文。
+以简洁的学术主页为设计方向：固定深色个人信息栏、圆形头像、白色正文、绿色链接、无衬线字体，以及带真实插图的论文列表。手机端自动切换为顶部个人信息区。
 
 ## 页面
 
@@ -10,6 +10,7 @@
 - `publications-zh.html`：中文论文页
 - `assets/style.css`：样式与移动端布局
 - `assets/portrait.jpg`：学校团队主页公开照片
+- `assets/papers/`：论文插图与项目演示缩略图，来源见 `assets/papers/SOURCES.md`
 - `data/publications.json`：15 篇已核对的论文数据
 - `tools/build.py`：通过 Python 标准库生成全部页面
 
@@ -27,7 +28,7 @@
 
 ## 日常维护
 
-修改 `data/publications.json` 可添加或更正论文。`selected: true` 的论文会出现在主页，其余论文仍显示在论文页。保留正式发表标题与作者顺序；不应将预印本擅自标记为会议或期刊录用。
+修改 `data/publications.json` 可添加或更正论文。`selected: true` 的论文会出现在主页，其余论文仍显示在论文页。`thumbnail` 和 `thumbnail_alt` 控制可选论文缩略图；`thumbnail_source` 保留原始出处。保留正式发表标题与作者顺序；不应将预印本擅自标记为会议或期刊录用。
 
 个人简介、研究方向和项目类别的文字位于 `tools/build.py`。编辑后运行：
 
@@ -51,4 +52,4 @@ python3 tools/build.py
 
 没有加入未经确认的教育经历、个人办公室、学生名额、奖励或未发表成果。主页仓库：https://github.com/ICML2023-paper-1936/ICML2023-paper-1936.github.io 。公开网页只使用学校公开邮箱，不包含账号登录信息。
 
-设计参照 https://chengzu-li.github.io/ 的学术排版，页面代码独立编写。
+设计参照 https://alvinwen428.github.io/ 的学术排版，页面代码独立编写。
